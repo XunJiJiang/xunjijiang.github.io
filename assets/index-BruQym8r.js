@@ -1,0 +1,1 @@
+import{d as n,c as e,b as u}from"./index-DhPfMY2y.js";const t=n({name:"NotFound",setup(){return()=>e("div",null,[e("h1",null,[u("404 not found")]),e("h2",null,[u("什么都没有哦")])])}});export{t as default};
